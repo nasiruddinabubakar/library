@@ -1,0 +1,9 @@
+#anchorPane {
+    -fx-border-color: white; /* Border color */
+    -fx-border-width: 2;     /* Border width */
+    -fx-border-style: solid; /* Border style */
+    -fx-border-radius: 5;
+      -fx-background-color: white; /* Set background color */
+         -fx-effect: dropshadow(gaussian, rgba(0,0,10,0.2), 30, 0, 0, 15); /* Define the box shadow */
+
+}
